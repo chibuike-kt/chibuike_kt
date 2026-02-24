@@ -11,7 +11,7 @@
 
 I'm **Kingsley Chibueze** — a backend-heavy developer building at the intersection of **fintech**, **financial infrastructure**, and the modern web. I specialize in secure payment engines, USD rails, stablecoin systems, and custody ledgers.
 
-- 🔭 Currently building: **Atlas Suite** — auth, ledger, AI & payment systems
+- 🔭 Currently building: **Atlas** — auth, ledger, AI & payment systems
 - 🌱 Deep-diving into: **BSC custody, stablecoin settlement & financial automation**
 - 💬 Ask me about: **PHP, Node.js, MySQL, fintech backend architecture**
 - ⚡ Fun fact: BSc Anatomy & Computer Science — I debug both code *and* bodies 🧬
